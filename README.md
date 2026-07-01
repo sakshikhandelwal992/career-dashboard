@@ -113,6 +113,17 @@ Through this project, I learned:
 ---
 
 ## 📷 Screenshots
+### 🏠 Home Page
+
+![Home Page](screenshots/home-page.png)
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 🌙 Dark Mode
+
+![Dark Mode](screenshots/dark-mode.png)
 
 
 ## 👩‍💻 Author
