@@ -121,4 +121,4 @@ Through this project, I learned:
 
 Bachelor of Computer Applications (BCA)
 
-GitHub: 
+GitHub: https://github.com/sakshikhandelwal992/career-dashboard
