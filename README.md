@@ -107,7 +107,7 @@ Through this project, I learned:
 
 ## 🌐 Live Demo
 
-**Live Website:**  To be added after deployment.
+**Live Website:**  https://career-dashboard-sakshi.netlify.app/
 
 
 ---
